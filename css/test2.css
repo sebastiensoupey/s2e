@@ -1,0 +1,73 @@
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+	$('#nav ul').css({display: 'none'}); // Opera Fix
+
+	$('#nav li').hover(function(){
+	$(this).find('ul:first').css({visibility: 'visible',display: 'none'}).show(400);
+	},function(){
+		$(this).find('ul:first').css({visibility: 'hidden'});
+	});
+});
+				//]]>
+				</script><script type="text/javascript">
+				//<![CDATA[
+					jQuery(document).ready(function($) {
+						$('#slideshow')
+							.cycle({
+							fx: 'scrollHorz',
+							speed: 1000,
+							timeout: 10000,
+							next: '#slide_next',
+							prev: '#slide_prev'
+						});
+					});
+				//]]>
+				</script><style type="text/css">
+			#wrapper, #header,
+			input, textarea,
+			#sidebar ul li, #sidebar ul li h2, #searchsubmit, #s,
+			#bottombar ul li, #bottombar ul li h2,
+			#navi, #navi ul, .arh, #slide_panel, #slideshow,
+			.type-post, .type-page, .meta-date a, .postmeta, .more-link,
+			.post-tags  a:link, .post-tags  a:visited, .more_posts, .more_posts .current,
+			#comments h3, .commentlist .comment, #respond,
+			#footer, #foot_wrap, #image-nav, .type-attachment, #image-nav .nav-previous a, #image-nav .nav-next a
+			{
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				-khtml-border-radius: 5px;
+				border-radius: 5px;
+			}
+		</style><style type="text/css">
+		#custom_header img {
+			margin: 5px 5px 0 5px;
+        }
+    </style>
+    <style type="text/css" id="custom-background-css">
+
+body.custom-background { background-color: #757575; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span id="bruteprotect_uptime_check_string" style="display:none;">7ads6x98y</span>
+<script type="text/javascript">
+	var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+</script>
+
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/fr_FR\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
